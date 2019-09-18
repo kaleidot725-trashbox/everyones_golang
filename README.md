@@ -1,1 +1,3 @@
-# everyones_golang
+# 現場で使える実践テクニック みんなのGO言語 改定2版
+
+![everyones golang](https://images-fe.ssl-images-amazon.com/images/I/51jif840ScL.jpg)
